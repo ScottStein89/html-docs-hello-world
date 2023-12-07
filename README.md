@@ -4,7 +4,7 @@ languages:
   - HTML
 products:
   - Azure App Service
-  - Azure Web Apps
+  - Azure Web Apps 1
 ---
 
 # HTML Hello World
